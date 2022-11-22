@@ -1,4 +1,4 @@
-import '<div className="" />intro.css'
+import 'intro.css';
 
 const Intro = () => {
     return (
